@@ -2,7 +2,7 @@
 
 Code, data and figures used for Sunbelt 2024 talk: Core-periphery Structure and the Dynamics of Trust in Online Communities
 
-SLIDES
+Slides can be found [here](https://docs.google.com/presentation/d/1tHGfzgoHdVs6n6PrE40hGNr_FOOMpXbaPMWyXK7HAag/edit?usp=sharing).
 
 ## Content
 
